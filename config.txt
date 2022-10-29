@@ -1,0 +1,5 @@
+#c_srcwidth=1632
+#c_srcheight=1280
+#c_dstwidth=938                            
+#c_dstheight=736
+c_divisor=16
